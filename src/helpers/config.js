@@ -37,4 +37,4 @@ export const molesData = [
   },
 ];
 
-export const moleShowInterval = 380;
+export const moleShowInterval = 500;
