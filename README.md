@@ -1,24 +1,5 @@
-# whak-a-mole
+# WHAK A MOLE
 
-## Project setup
-```
-npm install
-```
+A nice game to play for fun. Just grab the mole shown randomly and score as much as you can.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Have fun...
